@@ -1,4 +1,3 @@
-[![GitHub ReadMe Header](https://github.com/MarieLynneBlock/MarieLynneBlock/blob/master/header/banner_code.gif)](https://github.com/MarieLynneBlock/animated-banner_github)
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 All repos are on Codeberg, this acc's only for PR and bug reports
